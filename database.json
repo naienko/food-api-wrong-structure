@@ -4,25 +4,29 @@
       "id": 1,
       "name": "lasagna",
       "category": "pasta",
-      "ethnicity": "italian"
+      "ethnicity": "italian",
+      "barcode": "0011110906724"
     },
     {
       "id": 2,
       "name": "cheddar",
       "category": "cheese",
-      "ethnicity": "british"
+      "ethnicity": "british",
+      "barcode": "0767707001845"
     },
     {
       "name": "hotdog",
       "category": "portable",
       "ethnicity": "American",
-      "id": 5
+      "id": 5,
+      "barcode": "0011110966759"
     },
     {
       "name": "beef and broccoli",
       "category": "meat",
       "ethnicity": "chinese",
-      "id": 6
+      "id": 6,
+      "barcode": "0025800052905"
     }
   ]
 }
