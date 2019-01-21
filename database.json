@@ -1,0 +1,28 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "name": "lasagna",
+      "category": "pasta",
+      "ethnicity": "italian"
+    },
+    {
+      "id": 2,
+      "name": "cheddar",
+      "category": "cheese",
+      "ethnicity": "british"
+    },
+    {
+      "name": "hotdog",
+      "category": "portable",
+      "ethnicity": "American",
+      "id": 5
+    },
+    {
+      "name": "beef and broccoli",
+      "category": "meat",
+      "ethnicity": "chinese",
+      "id": 6
+    }
+  ]
+}
